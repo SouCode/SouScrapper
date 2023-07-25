@@ -20,6 +20,10 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "dotenv": "^16.3.1",
+    "firebase": "^10.1.0",
+    "firebase-admin": "^11.10.1",
+    "https-proxy-agent": "^7.0.1",
+    "proxy-from-env": "^1.1.0",
     "puppeteer": "^20.9.0",
     "puppeteer-core": "^20.9.0"
   }
